@@ -25,13 +25,7 @@ This project implements a machine learning model for classifying food images int
     ├───README.md
     └───requirements.txt
 ## Screenshots
-- Model Summary:
-
-![Model Summary](https://github.com/user-attachments/assets/3cb3cc96-0ad3-470e-a03e-a700a2093223)
-
-- Model Evaluation:
-
-![Model Evaluation](https://github.com/user-attachments/assets/ebeba6e8-a883-4786-a8a9-7fabca88644f)
+Model Documentation: https://github.com/XiaoDreT/food-classification-image/issues/1#issue-2418829770
 
 
 ## License
